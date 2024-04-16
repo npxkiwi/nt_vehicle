@@ -1,4 +1,4 @@
-vRP = Proxy.getInterface("vRP")
+
 
 
 RegisterCommand('vspawn', function(source, args, rawCommand)
