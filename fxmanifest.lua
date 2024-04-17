@@ -10,14 +10,11 @@ shared_scripts {
 }
 
 client_scripts {
-    'lib/Tunnel.lua',
-    'lib/Proxy.lua',
     'Config.lua',
     'client.lua'
 }
 
 server_scripts {
-    '@vrp/lib/utils.lua',
     'Config.lua',
     'server.lua'
 }
